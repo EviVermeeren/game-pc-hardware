@@ -23,7 +23,7 @@ const courseData = [
     b: "Processor",
     correct: "a",
     part: "Herkenning",
-    imgUrl: "images/motherboard.jpg",
+    imgUrl: "motherboard.jpg",
   },
   {
     q: "Wat is het brein van de PC?",
@@ -38,7 +38,7 @@ const courseData = [
     b: "PSU (Voeding)",
     correct: "a",
     part: "Beelden",
-    imgUrl: "images/gpu.png",
+    imgUrl: "gpu.png",
   },
   {
     q: "Welk geheugen is leeg als de PC uitgaat?",
@@ -53,7 +53,7 @@ const courseData = [
     b: "De Harde schijf",
     correct: "a",
     part: "Hardware",
-    imgUrl: "images/processor.jpg",
+    imgUrl: "processor.jpg",
   },
   {
     q: "Waarvoor staat de afkorting SSD?",
@@ -68,7 +68,7 @@ const courseData = [
     b: "Gegevens opslaan",
     correct: "a",
     part: "Energie",
-    imgUrl: "images/psu.jpeg",
+    imgUrl: "psu.jpeg",
   },
   {
     q: "Wie maakt de M1 en M2 chips?",
@@ -83,7 +83,7 @@ const courseData = [
     b: "RAM-latje",
     correct: "b",
     part: "Geheugen",
-    imgUrl: "images/ram.jpg",
+    imgUrl: "ram.jpg",
   },
 ];
 
